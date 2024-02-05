@@ -194,6 +194,21 @@ body, h1, h2, p, ul {
     font-size: x-large;
   }
 
+  .introduction button {
+    font-family: myNormalFont;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .introduction button:hover {
+    background-color: grey;
+  }
+
   .row {
     display: flex;
   }
@@ -218,6 +233,21 @@ body, h1, h2, p, ul {
   .carousel-inner .container p {
     font-family: myNormalFont;
     font-size: x-large;
+  }
+
+  .carousel-inner button {
+    font-family: myNormalFont;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .carousel-inner button:hover {
+    background-color: grey;
   }
 
   .overlay-image {
