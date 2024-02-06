@@ -146,12 +146,6 @@ body, h1, h2, p, ul {
     color: black;
   }
   
-  .hero-text p {
-    font-family: myNormalFont;
-    font-size: 1.2rem;
-    margin-bottom: 20px;
-  }
-  
   .hero-text button {
     font-family: myNormalFont;
     background-color: black;
