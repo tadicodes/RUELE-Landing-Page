@@ -319,6 +319,35 @@ body, h1, h2, p, ul {
   .footer-links a:hover {
     text-decoration: underline;
   }
+
+  .socialIcons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .socialIcons a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+  }
+
+  .socialIcons a i {
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+  }
+
+  .socialIcons a:hover {
+    background-color: #111;
+    transition: 0.5s;
+  }
+
+  .socialIcons a:hover i {
+    color: white;
+    transition: 0.5s;
+  }
   
   /* Responsive Styles */
   @media screen and (max-width: 768px) {
@@ -439,3 +468,18 @@ body, h1, h2, p, ul {
   .para-2 a {
     color: black;
   }
+
+
+
+.reg{
+    padding:50px;
+}
+.reg .container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.reg .form-group{
+    margin-bottom:30px;
+}
