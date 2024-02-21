@@ -4,7 +4,7 @@ The Bible Discussion Forum is a web application designed to facilitate meaningfu
 
 Here’s a [blog post](https://medium.com/@tadishongedza/building-a-bible-discussion-forum-a-journey-in-web-development-6b2a3b26c15a) including every detail you need to know
 
-image
+![Screenshot (204)](https://github.com/tadicodes/ruele/assets/121963464/9ca53a74-94d9-4bd0-b3a5-5fa00ba310f5)
 
 ## Features:
 * Browse curated selection of Bible verses and passages.
