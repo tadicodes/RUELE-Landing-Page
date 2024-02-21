@@ -1,5 +1,4 @@
 # RUELE
-***
 ## Overview:
 The Bible Discussion Forum is a web application designed to facilitate meaningful discussions, reflections, and insights into various Bible verses and passages. It provides users with a platform to engage in respectful discourse, share personal interpretations, ask questions, and connect with others on their spiritual journey. The project aims to create a welcoming and inclusive space for individuals from diverse backgrounds and beliefs to explore the depths of scripture and grow in their understanding of the Bible.
 
