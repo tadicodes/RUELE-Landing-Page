@@ -22,7 +22,7 @@ Here’s a [blog post](https://medium.com/@tadishongedza/building-a-bible-discus
 * Database: MySQL
 * Authentication: JWT (JSON Web Tokens)
 
-image
+![RUELE - Architecture (1)](https://github.com/tadicodes/ruele/assets/121963464/54a3de03-b70a-434e-a594-f412ef51cb43)
 
 ## Contributing:
 Contributions to the Bible Discussion Forum are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. Be sure to follow the project's code of conduct and contribution guidelines.
