@@ -14,7 +14,7 @@ Here’s a [blog post](https://medium.com/@tadishongedza/building-a-bible-discus
 * User authentication and authorization for secure access to the platform.
 * Responsive design for seamless user experience across devices.
 
-image
+![Screenshot (202)](https://github.com/tadicodes/ruele/assets/121963464/ff5b4e2c-c160-4794-843d-9f0b8ee7e9c3)
 
 ## Tech Stack:
 * Frontend: HTML, CSS, JavaScript, Bootstrap
